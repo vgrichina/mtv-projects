@@ -15,7 +15,7 @@ Your contributions are welcome -- please fork and submit pull requests.
 
 `download.py` downloads pdfs from Mountain View website into `data/` folder. It also converts them to text and parses using `parse.py` module. Results are written to `data/projects.json`.
 
-`preprocess.py` prepares `data/projects.json` for use on map. It tries to parse addresses from project titles and geocodes them using Google Maps API. 
+`preprocess.py` prepares `data/projects.json` for use on map. It tries to parse addresses from project titles and geocodes them using Google Maps API.
 
 ## Running locally
 
@@ -41,6 +41,10 @@ export GOOGLE_API_KEY=<your API KEY>
 ```
 
 API key can be obtained here https://console.developers.google.com/apis/credentials
+
+```
+python preprocess.py
+```
 
 ### Run local web server
 
