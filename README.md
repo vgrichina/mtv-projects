@@ -48,6 +48,6 @@ API key can be obtained here https://console.developers.google.com/apis/credenti
 python -m SimpleHTTPServer 8000
 ```
 
-This will start webserver available on http://localhost:8000. It is important to open web page from server as JS cannot load data if you open it locally from file system.
+This will start webserver available on [http://localhost:8000](http://localhost:8000). It is important to open web page from server as JS cannot load data if you open it locally from file system.
 
 
