@@ -1,625 +1,53 @@
 [
     {
-        "address": "1968 Hackett Avenue & 208-210 Sierra Vista Avenue", 
-        "description": "Request for a Planned Unit Development and Development Review Permit to allow\nconstruction of a 24-unit rowhouse project to replace 21 existing apartment units and\na request to remove 8 Heritage trees on a 1.60 acre project site in the R3-2.2\n", 
+        "address": "700 E. Middlefield Road and 1100 W. Maude Avenue", 
+        "description": "Google has submitted a request for a Site Plan and Architectural Review approval to\nmodify the parking lots for this existing office campus. The project would include\nremoval of parking and addition of a landscape courtyard.\n", 
         "location": [
-            37.4038009, 
-            -122.0921389
+            37.3921022, 
+            -122.0479334
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "1968 Hackett Avenue & 208-210 Sierra Vista Avenue"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Google (700 E. Middlefield Road and 1100 W. Maude Avenue)"
     }, 
     {
-        "address": "325, 333 & 339 Franklin Street", 
-        "description": "Request for review of a Planned Community Permit to replace 13 existing rental\nunits with a 15-unit residential condominium project on a 0.52 acre lot.\n", 
+        "address": "390 Moffett Blvd.", 
+        "description": "In March 2014, the Zoning Administrator approved an application by Hampton Inn\nand Suites to allow an 11,630 square foot, 21 room addition to an existing 52,707\nsquare foot, 87 room hotel (Hampton Inn and Suites), a parking reduction of 18\nspaces (93 from the required 111), and a Heritage Tree Removal Permit to remove 1\nHeritage Tree on a 1.34 acre project site. Expansion was made possible when the\nhotel owner purchasing the adjacent parcel at 330 Moffett Blvd.\n", 
         "location": [
-            37.3921461, 
-            -122.0827778
+            37.3987888, 
+            -122.0757994
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Residential Condominium Project (325, 333 & 339 Franklin Street)"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Hampton Inn Addition (390 Moffett Blvd.)"
     }, 
     {
-        "address": "779 E. Evelyn Avenue", 
-        "description": "On March 1, 2016, the City Council approved a request for a General Plan Map\nAmendment to alter the land use designation from General Industrial to High-\nDensity Residential, a Zoning Map Amendment to rezone the property from P(30)\nSylvan-Dale Precise Plan to R4 (High-Density Residential) zoning district, a\nDevelopment Review Permit to construct a 4-story, 116-unit apartment building for\nlow- and very-low income households with two on-site manager units and one-level\nof underground parking, a Heritage Tree Removal Permit to remove ten Heritage\ntrees, and replace an existing two-story office building and a one-story commercial\nbuilding.\n", 
+        "address": "86 El Camino Real", 
+        "description": "On October 14, 2015, the acting Zoning Administrator approved an application by\nWonder Years Preschool to build a new 2-story, 4,800-square-foot preschool\nbuilding on a site adjacent to their current property. The project would replace an\nexisting 1-story building that currently houses a car-stereo business.\n", 
         "location": [
-            37.3852631, 
-            -122.0532936
+            37.3819102, 
+            -122.0750885
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Evelyn Family Apartments (779 E. Evelyn Avenue)"
-    }, 
-    {
-        "address": "2268 W. El Camino Real", 
-        "description": "In June, the applicant applied for a Planned Community Permit and Development\nReview Permit for a new 3 to 4 story, 204-unit residential apartment project with\nunderground parking on a 2.6 acre site replacing the 21,026 square foot Olive Tree\nShopping Center and 4 single-story commercial structures along El Camino Real and\nLatham Street. This property is located on the north side of West El Camino Real\nand the south side Latham Street between Ortega Avenue and South Rengstorff\nAvenue in the P-38 (El Camino Real) Precise Plan.\n", 
-        "location": [
-            37.3970065, 
-            -122.104044
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Lennar Multi Family Communities (2268 W. El Camino Real)"
-    }, 
-    {
-        "address": "100 Moffett Blvd.", 
-        "description": "In December 2013, the City Council approved a 184-unit apartment project. The\nproject includes three new residential buildings on an approximately 2.68 acre site.\n", 
-        "location": [
-            37.3966786, 
-            -122.0776186
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Prometheus (100 Moffett Blvd.)"
-    }, 
-    {
-        "address": "167 North Whisman Rd.", 
-        "description": "In September 2013, plans were submitted for a 2-unit small-lot single-family\nsubdivision totaling approximately 6,600 square feet on 0.3 acres in the Whisman\nStation Precise Plan area.\n", 
-        "location": [
-            37.39298, 
-            -122.060675
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "167 North Whisman Rd."
-    }, 
-    {
-        "address": "881 Castro Street", 
-        "description": "Request for a Provisional Use Permit and Planned Community Permit to construct a\n4-story, mixed-use building with 8,500 square feet of ground-floor commercial space\nand 18 condominium units with two levels of underground parking and a Tentative\nMap to merge four lots into one lot with condominium lots to replace three existing\ncommercial buildings and a four-unit apartment building on a 0.41-acre project site.\nThe project site is located on the northeast corner of Castro Street and Fairmont\nAvenue through to Hope Street in the P-19 (Downtown) Precise Plan.\n", 
-        "location": [
-            37.3864834, 
-            -122.0831951
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Fairmont Mixed Use Project (881 Castro Street)"
-    }, 
-    {
-        "description": "Avenue)\nRequest for exterior building modifications, site and landscape modifications, and a\nparking reduction at an existing office campus.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "LinkedIn \u2013 Existing Campus (700 E. Middlefield Road and 1100 W. Maude"
-    }, 
-    {
-        "address": "1625 North Shoreline Boulevard", 
-        "description": "Request for a Planned Community Permit to demolish an existing 12,100 square foot\ncommercial building and construct a five-story, 104,750 square foot, 200-room hotel\nand a five-level parking structure and a Heritage Tree Removal Permit to remove\ntwo Heritage trees on a 1.39 acre site. The site is located on the southeast corner of\nNorth Shoreline Boulevard and Space Park Way in the P-39 (North Bayshore 2014)\nPrecise Plan.\n", 
-        "location": [
-            37.4168342, 
-            -122.0775494
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Shashi Hotel (1625 North Shoreline Boulevard)"
-    }, 
-    {
-        "address": "790 E El Camino Real", 
-        "description": "Request for a Planned Community Permit to reconstruct the existing gas station and\ncar wash and to add a new 2,940 square foot convenience store, and a Heritage Tree\nRemoval Permit to remove up to 5 Heritage trees.\n", 
-        "location": [
-            37.3770924, 
-            -122.0637762
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "Loop Convenience Store (790 E El Camino Real)"
-    }, 
-    {
-        "address": "2645 & 2655 Fayette Drive", 
-        "description": "Request for a Development Review Permit and Tentative Map for a new four-story,\n24-unit residential condominium development with underground parking and a\nHeritage Tree Removal Permit to remove seven trees and relocate two trees on a\n0.65-acre site located on the south side of Fayette Drive in the R3-D (Multiple-\nFamily) District. The project will replace a commercial building and six existing\nresidential units.\n", 
-        "location": [
-            37.4040889, 
-            -122.114586
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "The DeNardi Group (2645 & 2655 Fayette Drive)"
-    }, 
-    {
-        "address": "2500 Grant Rd.", 
-        "description": "Request for a Planned Community Permit to construct a new 2-story, 56,000 sq. ft.\nBehavioral Health building, a new 7-story, 265,000 sq. ft. medical office building, a\nnew 5-level 390-stall parking structure adjacent to the new medical office building,\nand 4-level, 430-stall addition to the existing North Parking Garage; and a Heritage\nTree Removal Permit to remove 40 Heritage trees and relocate 17 Heritage trees on\nthe 40-acre hospital campus. The project includes demolition of the following\nexisting buildings: a 16,000 square feet behavioral health building, a 260,000 sq. ft.\nOld Main Hospital Building, and an 80,500 sq. ft. North Addition Building (adjacent\nto the Old Main Hospital) and removal of 220 surface parking stalls.\n", 
-        "location": [
-            37.3694772, 
-            -122.0799117
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "El Camino Real Hospital Campus Update (2500 Grant Rd.)"
-    }, 
-    {
-        "address": "2300 West El Camino Real", 
-        "description": "In February 2016, the applicant submitted a Planned Community Permit and a\nProvisional Use Permit to allow construction of a new four-story, 157 room hotel\nwith a level of underground parking. The project site is located on the north side of\nEl Camino Real between Ortega Avenue and South Rengstorff Avenue in the El\nCamino Real Precise Plan (P38) District.\n", 
-        "location": [
-            37.397475, 
-            -122.1053282
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "2300 West El Camino Real"
-    }, 
-    {
-        "address": "1313 and 1347 W. El Camino Real", 
-        "description": "", 
-        "location": [
-            37.3884311, 
-            -122.0900351
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "1313 and 1347 W. El Camino Real"
-    }, 
-    {
-        "address": "600 National Ave.", 
-        "description": "In May 2014, the City Council approved a request by National Avenue Partners to\nrezone 4.8 acres (210,346 sq. ft.) from ML (Limited Industrial) District to P (Planned\nCommunity) District to allow a new 4-story, 140,654 sq. ft. office building (0.67 FAR)\na one-story parking structure and the removal of 11 Heritage trees to replace four\nindustrial buildings.\n", 
-        "location": [
-            37.4016398, 
-            -122.054288
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "National Avenue Partners (600 National Ave.)"
-    }, 
-    {
-        "description": "In January 2014, Google submitted an application for a habitat restoration project at\nthe Charleston Retention Basin. The project includes restoration and enhancement\nof wetlands, the surrounding landscape, and trail system for the area.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=21420", 
-        "title": "Charleston Retention Basin Habitat Restoration Project"
-    }, 
-    {
-        "address": "369 N. Whisman Rd.", 
-        "description": "In September 2011, the City Council approved a request for a Transit Oriented\nDevelopment, Planned Unit Development Permit and Heritage Tree Removal\nPermit to construct a three-story 70,846 sq. ft. office building, a four-story 109,927 sq.\nft. office building and two four-story parking structures on a 29.3-acre site (0.49\nFAR) with seven existing office buildings and the removal of 22 Heritage trees. The\napproval also included a parking reduction of 143 spaces or 6.9 percent of the\nrequired parking, a Tentative Map to create 13 parcels, and a 10-year Development\nAgreement. The site is located on the east side of N. Whisman, north of E.\nMiddlefield Road.\n", 
-        "location": [
-            37.3987193, 
-            -122.058585
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "The Quad / Lovewell (369 N. Whisman Rd.)"
-    }, 
-    {
-        "description": "Informal review of a Master Plan for mixed-use redevelopment of three properties\ncurrently developed with office and retail uses (2580 and 2590 California Street, and\n201 San Antonio Circle). The project site is located north of California Street\nbetween San Antonio Road and Pacchetti Way in the P-40 (San Antonio) Precise\nPlan.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22120", 
-        "title": "North of California Street Master Plan"
-    }, 
-    {
-        "address": "111 & 123 Fairchild Dr.", 
-        "description": "In January 2014, the City Council approved a request for a Planned Community\nPermit and Planned Unit Development Permit to allow 18 rowhomes, replacing 6\napartment units and 5 industrial buildings, and a Heritage Tree Removal Permit to\nremove eight Heritage trees, on a 1.0-acre project site, located on the southeast\ncorner of Tyrella Avenue and Fairchild Drive.\n", 
-        "location": [
-            37.4028461, 
-            -122.0525303
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20027", 
-        "title": "Dividend Homes (111 & 123 Fairchild Dr.)"
-    }, 
-    {
-        "address": "1001 N. Shoreline Boulevard", 
-        "description": "Request for a rezone from ML (Limited Industrial) to P (Planned Community)\nDistrict, a Planned Community Permit to construct a new seven-story residential\nstructure with two levels of podium parking and 203 apartment units, a new seven-\nstory residential structure with two levels of podium parking and 100 condominium\n", 
-        "location": [
-            37.4084924, 
-            -122.0780286
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=21420", 
-        "title": "Calvano Development \u2013 Residences (1001 N. Shoreline Boulevard)"
-    }, 
-    {
-        "address": "500 Ferguson Drive (EFL Development)", 
-        "description": "In June 2015, the City Council approved a Planned Community Permit for 394\nresidential apartments and 3,000 square feet of commercial space, in two four-story\nbuildings over an underground parking garage. The project site is located in the\nSouth Whisman Precise Plan and is part of the South Whisman Master Plan.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "500 Ferguson Drive (EFL Development)"
-    }, 
-    {
-        "address": "2019 Leghorn Street", 
-        "description": "Request for a Development Review Permit and a Conditional Use Permit to\nconstruct a new two-story, 12,050 square-foot office building and demolish five\nexisting residential units and associated accessory structures, on an 0.86-acre site.\n", 
-        "location": [
-            37.418681, 
-            -122.0922056
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "2019 Leghorn Street"
-    }, 
-    {
-        "address": "344 Bryant Avenue", 
-        "description": "Request for a Preliminary Parcel Map to subdivide a 0.9-acre lot into four single-\nfamily lots, a Planned Unit Development Permit and a Development Review Permit\nto construct four new single-family homes replacing one existing single-family\nhome, and a Heritage Tree Removal Permit to remove three Heritage trees. The\nproject is located on the north side of Bryant Avenue near Stacey Court.\n", 
-        "location": [
-            37.3615409, 
-            -122.0757688
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "344 Bryant Avenue"
-    }, 
-    {
-        "address": "277 Fairchild Dr.", 
-        "description": "In February 2014, the applicant submitted a Planned Community Permit request for\na rowhouse project on a 1.47 acre site with frontage on Fairchild Drive and Evandale\nAvenue on the block between North Whisman Road and Tyrella Avenue. The\nproject includes 22 3-story attached single-family homes and four 2-story detached\nsingle-family homes, facing Evandale Avenue. The project would remove up to 8\nHeritage trees. Existing uses on the lot include two single-family homes, a motel,\nand a small convenience store.\n", 
-        "location": [
-            37.4052542, 
-            -122.0577338
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Warmington Residential (277 Fairchild Dr.)"
-    }, 
-    {
-        "address": "1701 W. El Camino Real", 
-        "description": "Request for a Planned Community Permit and State density bonus to construct a 67-\nunit affordable studio apartment development (including one, 1-bedroom manager's\nunit) on a 0.49-acre vacant lot. This project site is located on the southwest corner of\nWest El Camino Real and Rich Avenue in the P-38 (El Camino Real) Precise\nPlan. This is a City-partnered NOFA project; City Council authorized the\nreservation of funding for the development at a public hearing on October 20, 2015.\n", 
-        "location": [
-            37.390217, 
-            -122.0936506
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "1701 W. El Camino Real"
-    }, 
-    {
-        "address": "715 Sleeper Avenue", 
-        "description": "Request for a Planned Unit Development Permit and Development Review Permit\nto construct 2 new single-family homes, one on a flag lot; an Heritage Tree Removal\nPermit for the removal of one Heritage tree on a 27,244 square foot lot. This property\nis located south of Sleeper Avenue between Sun Mor Avenue and Yorkshire Way in\nthe R1-10 (Single-Family Residential) district.\n", 
-        "location": [
-            37.3713445, 
-            -122.0714741
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "715 Sleeper Avenue"
-    }, 
-    {
-        "description": "", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22120", 
-        "title": "45                                                                                                                                  \""
-    }, 
-    {
-        "address": "400 San Antonio Rd.", 
-        "description": "Request for a Planned Community Permit to construct 583 apartment units and\n11,171 square feet of ground floor commercial space in two five-story and one seven-\nstory buildings with underground parking to replace seven existing retail, office,\nand industrial buildings, including a 35% State Density Bonus with development\nwaivers allowing up to a 2.5 floor area ratio; a Heritage Tree Removal Permit to\nremove 59 Heritage trees; and a Preliminary Parcel Map to combine five existing\nparcels into two parcels on an existing 5.7 acre site located on the west side of San\nAntonio Road between Fayette Drive and Miller Avenue in the P-40 (San Antonio)\nPrecise Plan.\n", 
-        "location": [
-            37.4049948, 
-            -122.1120529
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Prometheus (400 San Antonio Rd.)"
-    }, 
-    {
-        "address": "1075 Terra Bella", 
-        "description": "Request for a Development Review Permit to construct a new 2-story, 19,301 square-\nfoot office building, a Conditional Use Permit for office uses, a Heritage Tree\nRemoval Permit to remove 29 Heritage trees on a 57,086 square foot lot.\n", 
-        "location": [
-            37.407974, 
-            -122.074845
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "1075 Terra Bella"
-    }, 
-    {
-        "address": "2700 W. El Camino Real", 
-        "description": "Request for a Planned Community Permit to construct 211 apartment units and\n2,000 square feet of ground floor commercial space with underground parking to\nreplace an existing motel and vacant restaurant buildings, including a 20% State\nDensity Bonus with development waivers allowing up to 2.20 floor area ratio and a\n", 
-        "location": [
-            37.404379, 
-            -122.11685
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22120", 
-        "title": "2700 W. El Camino Real"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Wonder Years Preschool (86 El Camino Real)"
     }, 
     {
         "address": "1991 Sun Mor Avenue", 
-        "description": "In August 2015, the applicant submitted a formal application for a for a Planned\nUnit Development permit and a Development Review Permit to allow development\nof 11 single family homes, a Heritage Tree Removal Permit to remove 27 Heritage\ntrees, and a Tentative Map to subdivide existing 5-acre lot into 12 lots. This property\nis located at the north terminus of Sun Mor Avenue, in the R1-10 (Single-Family\nResidential) district.\n", 
+        "description": "In August 2015, the applicant submitted a formal application for a for a Planned\nUnit Development permit and a Development Review Permit to allow development\nof 11 single family homes, a Heritage Tree Removal Permit to remove 27 Heritage\ntrees, and a Tentative Map to subdivide existing 5-acre lot into 12 lots. This\nproperty is located at the north terminus of Sun Mor Avenue, in the R1-10 (Single-\nFamily Residential) district.\n", 
         "location": [
-            37.373796, 
-            -122.07007
+            37.3733686, 
+            -122.0700932
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "Adachi Project (1991 Sun Mor Avenue)"
     }, 
     {
         "address": "333 N. Rengstorff Ave.", 
         "description": "In March 2015 the City Council approved a request by Dinar & Associates for a 29\nunit rowhouse project on a 1.72 acre site. In July 2015 the property was sold and the\nnew owners have stated their intention of rehabilitating the existing apartment\ncomplex and site improvements.\n", 
         "location": [
-            37.4077831, 
-            -122.0945443
+            37.4078258, 
+            -122.0944836
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18651", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "333 N. Rengstorff Ave."
-    }, 
-    {
-        "address": "555 West Middlefield Road", 
-        "description": "Request for a General Plan Amendment from Medium-Density Residential to High-\nDensity Residential, a Zoning Map Amendment from P to R4 (High Density), and a\nDevelopment Review Permit to allow a 341-unit addition to an existing 402-unit\nresidential development with three new underground garages, a new leasing office\nfor the entire development, and a 1.48-acre public park (dedicated to the City) on a\n14.5-acre site. The project site is located on the south side of West Middlefield Road\nbetween Moffett Boulevard and Highway 85 in the P (Planned Community) district.\n", 
-        "location": [
-            37.3988419, 
-            -122.0720265
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "555 West Middlefield Road"
-    }, 
-    {
-        "description": "Request for a Precise Plan Amendment to the Whisman Station Precise Plan to allow\nsmall-lot single-family homes where rowhomes are required and a Planned\nCommunity Permit for 16 small-lot single-family homes on a vacant 2 acre project\nsite.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Antenna Farm (Pacific Dr.)"
-    }, 
-    {
-        "address": "1255 Pear Avenue (The Sobrato Organization)", 
-        "description": "Request for a Planning Community Permit to allow up to 650 market rate residential\nunits and 234,247 square feet of new office uses, demolish a total of 103,513 square\nfoot of industrial-office buildings across the site and retain the new five-story,\n156,134 square foot office building at the southeast corner of Pear Avenue and Inigo\nWay, and one-story, 18,740 square foot industrial office building at the southeast\nend of the site. The approximately 15.5-acre site extends north of La Avenida to\nSpace Park Way, between Inigo Way and Armand Avenue, in the P-39 (North\nBayshore) Precise Plan District.\n", 
-        "location": [
-            37.3305962, 
-            -122.0316847
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "1255 Pear Avenue (The Sobrato Organization)"
-    }, 
-    {
-        "address": "1101 W. El Camino Real", 
-        "description": "On November 12, 2014, the City Council approved a Zoning Map Amendment to\nrezone the rear portion of the project site from R2-9sd (One- and Two-Family\nResidential Special Design) district to the CRA (Commercial/Residential-Arterial)\ndistrict and a General Plan Map Amendment to alter the land use designation for\nthe same portion of the project site from Medium-Density Residential to Mixed-Use\nCorridor, a Conditional Use Permit and Development Review Permit for a 4-story,\n52-unit condominium development with a 35% density bonus, under State Density\nBonus Law, and one-level of underground parking, and a Heritage Tree Removal\nPermit to remove one Heritage tree on a 0.98 acre (42,127-square-foot) project site.\nThe proposed project includes demolishing the existing Harv\u2019s Carwash and\nreplacing it with 52 ownership units, resulting in approximately 73,445 net new\nsquare feet of development on the site.\n", 
-        "location": [
-            37.3731883, 
-            -122.0523367
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Harv\u2019s Car Wash - Regis Homes (1101 W. El Camino Real)"
-    }, 
-    {
-        "address": "582 Hope Street, corner of Castro & Church", 
-        "description": "Request for a Planned Community Permit to construct a mixed-use development\nwith (1) a 3- to 4-story, 96,500 square foot commercial building along Castro Street\nwith 8,000 square feet of ground-floor retail and 3-levels of underground parking;\n", 
-        "location": [
-            37.3881513, 
-            -122.0815812
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "St. Joseph\u2019s Church (582 Hope Street, corner of Castro & Church)"
-    }, 
-    {
-        "address": "1740 W. El Camino Real", 
-        "description": "In August 2013, the Zoning Administrator approved a Conditional Use Permit for a\nnew four story, 22,000 square foot hotel building with 32 rooms on a 0.38-acre site.\n", 
-        "location": [
-            37.3917378, 
-            -122.0947005
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "Residence Inn (1740 W. El Camino Real)"
-    }, 
-    {
-        "description": "On May 26, 2015 the City Council approved an application for a 3-story 17-unit\ncondominium project with underground parking on 0.93 acre project site. The\nproject would replace three apartments and a single-family home, and would\nremove up to 11 Heritage trees. The project includes a two-unit Density Bonus\nrequest and includes one very low income unit.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "1998-2024 Montecito Avenue"
-    }, 
-    {
-        "address": "1984 W. El Camino Real", 
-        "description": "In November 2013, the City Council approved a 160-unit apartment project with\n4,000 square feet of ground floor retail space, and a Heritage Tree Removal Permit to\nremove 10 Heritage trees, to replace the Pacific Inn Motel on a 2.85-acre site, located\non the north side of El Camino Real between Escuela Avenue and Rengstorff\nAvenue.\n", 
-        "location": [
-            37.39508319999999, 
-            -122.098834
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "UDR (1984 W. El Camino Real)"
-    }, 
-    {
-        "address": "858 Sierra Vista Ave.", 
-        "description": "On November 12, 2014 the City Council approved a Request for a Planned Unit\nDevelopment Permit, Development Review Permit, and Heritage Tree Removal\nPermit to allow for four small-lot, single-family homes to replace an existing home,\non a 0.52 acre project site, located on the west side of Sierra Vista Avenue between\nColony Street and Plymouth Street in the R3-2 (Multiple-Family Residential) district.\n", 
-        "location": [
-            37.416543, 
-            -122.089954
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Paul Ryan (858 Sierra Vista Ave.)"
-    }, 
-    {
-        "address": "460 North Shoreline Boulevard", 
-        "description": "Request to amend the P-5 (460 Shoreline Boulevard) Precise Plan to increase from\n125 to 170 units, a Planned Community Permit to demolish 12 affordable townhouse\nunits and replace them with 62 affordable units (21 studios, 21 one-bedroom, 8 two-\nbedroom, and 12 three bedroom), a Heritage Tree Removal Permit for the removal of\n18 Heritage trees on a 5.32 acre project site. This property is located west of North\nShoreline Boulevard between Montecito Avenue and Wright Avenue in the P-5 (460\nShoreline Boulevard) Precise Plan.\n", 
-        "location": [
-            37.4011009, 
-            -122.0807208
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Shorebreeze Apartments (460 North Shoreline Boulevard)"
-    }, 
-    {
-        "address": "1696 \u2013 1758 Villa Street", 
-        "description": "Informal review of a General Plan Amendment from Medium Density Residential\nand Low Density Residential to High Density Residential, a Zoning Map\nAmendment from R3-2 and R1 to P-17, a Precise Plan Amendment to the Villa-\nMariposa Precise Plan, a Development Review Permit to construct a 240-unit\napartment complex over one level of underground parking to replace a 16-unit\napartment building and 3 single family homes, a Heritage Tree Removal permit to\nremove 26 Heritage trees. This property is located on the north side of Villa Street at\nChiquita Avenue in the P-17 (Villa-Mariposa) Precise Plan, the R1 (Single Family)\ndistrict and the R3-2 (Multiple Family) district.\n", 
-        "location": [
-            37.3938564, 
-            -122.0794348
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Prometheus (1696 \u2013 1758 Villa Street)"
-    }, 
-    {
-        "address": "1946 San Luis Ave.", 
-        "description": "In May, 2014 the City Council approved a request by Classic Communities for a 28\nunit rowhouse project on a 1.6 acre site. The properties included a total of 25\nexisting units.\n", 
-        "location": [
-            37.40814200000001, 
-            -122.091209
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20027", 
-        "title": "Classic Communities (1946 San Luis Ave.)"
-    }, 
-    {
-        "address": "790 E. El Camino Real", 
-        "description": "Request for a Planned Community Permit to reconstruct the existing gas station and\ncar wash and to add a new 2,940 square foot convenience store, and a Heritage Tree\nRemoval Permit to remove up to five Heritage trees.\n", 
-        "location": [
-            37.3770924, 
-            -122.0637762
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Loop Convenience Store (790 E. El Camino Real)"
-    }, 
-    {
-        "address": "1001 N. Shoreline Blvd", 
-        "description": "Request for a Development Review Permit for the construction of a 4-story, 111,443\nsquare foot office building with outdoor amenity space and a surface parking lot; a\nHeritage Tree Removal Permit to remove 33 Heritage trees, and a lot merger to\ncombine 9 lots into one parcel on a 7.3-acre site, located on the northeast corner of N.\nShoreline Boulevard and Terra Bella Avenue in the ML (Limited Industrial) and MM\n", 
-        "location": [
-            37.4084924, 
-            -122.0780286
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "Calvano Development (1001 N. Shoreline Blvd)"
-    }, 
-    {
-        "address": "525 East Evelyn Ave.", 
-        "description": "In September 2012, the City Council approved a request for a Planned Unit\nDevelopment Permit, and Development Review Permit to allow a 70-unit attached\nrowhouse project and a Heritage Tree Removal Permit to remove 7 Heritage trees,\non a 3.65 acre lot with existing industrial buildings. The project is Phase II of the\nShea Home project on East Evelyn Avenue and is located on the south side of East\nEvelyn Avenue, east of Highway 237.\n", 
-        "location": [
-            37.385758, 
-            -122.055237
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20027", 
-        "title": "Live Oak Properties (525 East Evelyn Ave.)"
-    }, 
-    {
-        "address": "660 Tyrella Avenue", 
-        "description": "In May 2016, Council approved a request for a Planned Community Permit and\nDevelopment Review Permit for a 37 unit rowhouse project and a Heritage Tree\nRemoval Permit to remove eight Heritage trees to replace 52 apartment units on a\n1.84 acre project site, located on the southwest corner of Tyrella Avenue and\nFairchild Drive.\n", 
-        "location": [
-            37.406237, 
-            -122.062847
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "660 Tyrella Avenue"
-    }, 
-    {
-        "address": "830 Leong Dr.", 
-        "description": "Request for a Provisional Use Permit to construct new hydrogen fueling station\ntank, enclosure and site improvements at an existing gas station, and a Heritage Tree\nRemoval Permit to remove six Heritage trees.\n", 
-        "location": [
-            37.4052523, 
-            -122.067024
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Linde Hydrogen Fueling Station (830 Leong Dr.)"
-    }, 
-    {
-        "address": "1958 Rock St.", 
-        "description": "In June 2013, the City Council approved a request for a Planned Unit Development\nto allow 19 rowhomes, replacing 12 apartment units, and a Heritage Tree Removal\nPermit for the removal of 5 Heritage trees, on a 1.13-acre project site, located\nbetween Sierra Vista Avenue and North Rengstorff Avenue.\n", 
-        "location": [
-            37.4125741, 
-            -122.0901141
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18928", 
-        "title": "Dividend Homes (1958 Rock St.)"
-    }, 
-    {
-        "address": "1001 N. Shoreline Boulevard", 
-        "description": "Request for a Development Review Permit for the construction of a 4-story, 111,443\nsquare foot office building with outdoor amenity space and a surface parking lot; a\nHeritage Tree Removal Permit to remove 33 Heritage trees, and a lot merger to\ncombine 9 lots into one parcel on a 7.3-acre site, located on the northeast corner of N.\nShoreline Boulevard and Terra Bella Avenue in the ML (Limited Industrial) and MM\n", 
-        "location": [
-            37.4084924, 
-            -122.0780286
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=21420", 
-        "title": "Calvano Development \u2013 Office (1001 N. Shoreline Boulevard)"
-    }, 
-    {
-        "description": "On February 23, 2016, the City Council adopted a new development impact fee for\nNorth Bayshore. This fee will go into effect April 23, 2016. For further information\nvisit the City\u2019s website.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=19215", 
-        "title": "North Bayshore Development Impact Fee (Nexus Study)"
-    }, 
-    {
-        "description": "In November 2015 the City Council approved a scope of work for a Multimodal\nImprovement Plan. The Plan will include City improvements, programs and\nservices to support alternative transportation modes, such as bicycles, transit and\nwalking. It will comply with VTA requirements to document existing and future\nefforts to address increased vehicle congestion and will be reviewed by the VTA\nBoard of Directors. The project also includes a nexus study to adopt a City-wide\nTransportation Impact Fee.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Multimodal Improvement Plan"
-    }, 
-    {
-        "description": "Request for a Planned Community Permit and Planned Unit Development Permit to\nallow a new 35-unit rowhouse project and a Heritage Tree Removal Permit to\nremove 10 Heritage trees on a 1.8 acre project site, located on the south side of\nFairchild Drive between Tyrella Avenue and North Whisman Road.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "133-149 Fairchild Dr."
-    }, 
-    {
-        "address": "574 Escuela Ave.", 
-        "description": "In January 2013, the City Council approved a Zoning Text Amendment, Conditional\nUse Permit, Planned Unit Development Permit and Heritage Tree Removal permit\nto allow 44 senior assisted living beds, in a two-story, senior assisted-living project\nto replace an existing multi-family building on a 0.55 acres project site.\n", 
-        "location": [
-            37.395064, 
-            -122.09583
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=21420", 
-        "title": "Senior Assisted Living (574 Escuela Ave.)"
-    }, 
-    {
-        "address": "450 N. Whisman Dr.", 
-        "description": "In April 2013, the applicant submitted a request for a Planned Unit Development\nPermit and Development Review Permit for a 37-unit rowhouse development and a\npublic trail on a vacant 6.4 acre property, located on North Whisman Road between\nWhisman Court and Walker Drive. The City Council approved the project on\nNovember 12, 2014.\n", 
-        "location": [
-            37.4013011, 
-            -122.0580094
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Hetch-Hetchy Property (450 N. Whisman Dr.)"
-    }, 
-    {
-        "address": "777 West Middlefield Road", 
-        "description": "Informal request for a General Plan Amendment from Medium-Density Residential\nto High-Density Residential, a Zoning Map Amendment from R3-2 (Multiple-Family\nResidential) to P (Planned Community) district to allow demolition of 208 existing\napartment units and construction of 711 new apartment units (including 144\naffordable units). The project site is located on the west side of Middlefield Road\nbetween Shoreline Boulevard and Moffett Boulevard in the R3-2 district.\n", 
-        "location": [
-            37.4029204, 
-            -122.0750968
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "777 West Middlefield Road"
-    }, 
-    {
-        "address": "580 \u2013 620 Clyde Avenue", 
-        "description": "On June 7, 2016, the City Council approved a new 178,477 square foot, 5-story office\nbuilding and a three-story parking garage on a 5.15 acre site; the request included a\nrezoning from ML (Limited Industrial) to P (Planned Community), and a Heritage\nTree Removal Permit for the removal of 29 Heritage trees. The project would\nreplace two one-story light industrial buildings totaling approximately 75,000\nsquare feet.\n", 
-        "location": [
-            37.4002379, 
-            -122.0473497
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Renault & Handley (580 \u2013 620 Clyde Avenue)"
-    }, 
-    {
-        "address": "1075 Terra Bella Avenue", 
-        "description": "In April 2015, Calvano Development submitted a request for a Development Review\nPermit for a new 13,046 square foot R&D building on a 37,312 square foot site, and a\nHeritage Tree Removal Permit for the removal of up to 24 Heritage trees. The site\ncurrently contains several small residential structures in the MM (General\nIndustrial) Zoning District.\n", 
-        "location": [
-            37.407974, 
-            -122.074845
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20027", 
-        "title": "1075 Terra Bella Avenue"
-    }, 
-    {
-        "address": "938-954 Villa Street", 
-        "description": "Request for a Planned Community Permit and Development Review Permit to\nconstruct a 41,876 square foot building with 2,922 square feet of restaurant and\n38,954 square feet of office to replace two existing restaurants in historic structures\n", 
-        "location": [
-            37.3947249, 
-            -122.0806275
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Minkoff Office Building (938-954 Villa Street)"
-    }, 
-    {
-        "address": "360 South Shoreline Boulevard", 
-        "description": "Request for a rezone from R1 (Single-Family) to P (Planned Community) district,\nand a Planned Community Permit to construct three buildings with seven\napartment units total for staff housing, a Heritage Tree Removal Permit to remove\nsix Heritage trees, and a Preliminary Parcel Map to create two parcels from the\nexisting four parcels on a 2.95 acre school site (Mountain View Academy).\n", 
-        "location": [
-            37.393815, 
-            -122.0847166
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Mountain View Academy Staff Housing (360 South Shoreline Boulevard)"
-    }, 
-    {
-        "description": "On February 3, 2015, the City Council directed staff to amend the North Bayshore\nPrecise Plan to include residential land uses. This Precise Plan update comes after\nthe adoption of the North Bayshore Precise Plan in November 2014 and completion\nof the Bonus FAR application review in May 2015.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "North Bayshore Precise Plan Update"
-    }, 
-    {
-        "address": "908 N. Rengstorff Ave.", 
-        "description": "In October 2014, the Zoning Administrator approved a Conditional Use Permit and\nDevelopment Review Permit for a new 2-story, 8,088-square-foot, 84 child daycare\ncenter and a Heritage Tree removal permit to remove two Heritage trees on a 0.43\nacre (18,731 sq. ft.) project site. The project includes the demolition of one single-\nfamily home, resulting in 7,318 net new square feet of development on the site.\n", 
-        "location": [
-            37.4176943, 
-            -122.0931159
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Windsor Academy (908 N. Rengstorff Ave.)"
-    }, 
-    {
-        "description": "On May 26, 2015 the City Council approved an application for a 3-story 17-unit\ncondominium project with underground parking on 0.93 acre project site. The\nproject would replace three apartments and a single-family home, and would\nremove up to 11 Heritage trees. The project includes a two-unit Density Bonus\nrequest and includes one very low income unit.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "1998-2024 Montecito Ave."
-    }, 
-    {
-        "address": "1400 North Shoreline Boulevard (LinkedIn and Sywest)", 
-        "description": "Request for a Master Plan for a mixed-use development, and a Planned Community\nPermit for 1,491,789 square feet of office, 93,036 square feet of retail and restaurant\nspace, 98,000 square feet of athletic club, 88,500 square feet of theater, and a 98,969\nsquare foot hotel, over two levels of underground parking and one level of podium\nparking, for a total gross building area of 1,870,294 square feet and a 1.69 total gross\nbuilding FAR.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=19722", 
-        "title": "1400 North Shoreline Boulevard (LinkedIn and Sywest)"
-    }, 
-    {
-        "address": "575 E. Middlefield Rd.", 
-        "description": "In February 2010, the City Council approved a request for a Transit Oriented\nDevelopment Permit to construct a 102,419 sq. ft., four-story office building on a\n10.7-acre site (0.5 FAR) with three existing office buildings and a request for a\nHeritage tree permit to remove 21 heritage trees. The approval includes upgrades\nto the existing parking lot and landscaping, a parking reduction of 62 spaces or 7.9\npercent of the total required parking, a parcel map to create condominium parcels\nfor the buildings, and an 8-year Development Agreement. This property is located\non the south side of East Middlefield Road between Ellis Street.\n", 
-        "location": [
-            37.3951109, 
-            -122.0525015
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Symantec (575 E. Middlefield Rd.)"
-    }, 
-    {
-        "address": "647 Sierra Vista Ave.", 
-        "description": "On October 20, 2015 the City Council approved a 29-rowhome project on a 1.6 acre\nsite in the R3-2.2 (Multiple Family) district.\n", 
-        "location": [
-            37.410953, 
-            -122.088511
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "647 Sierra Vista Ave."
-    }, 
-    {
-        "address": "700 E. Middlefield Road and 1100 W. Maude Avenue", 
-        "description": "Google has submitted a request for a Site Plan and Architectural Review approval to\nmodify the parking lots for this existing office campus. The project would include\nremoval of parking and addition of a landscape courtyard.\n", 
-        "location": [
-            37.3944965, 
-            -122.0503914
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20027", 
-        "title": "Google (700 E. Middlefield Road and 1100 W. Maude Avenue)"
-    }, 
-    {
-        "description": "", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "46                                                                                                                                  \""
     }, 
     {
         "address": "2600 Marine Way", 
@@ -628,222 +56,413 @@
             37.4283625, 
             -122.097623
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20027", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "Intuit (2600 Marine Way)"
     }, 
     {
-        "description": "Boulevard)\nRequest CRP Mountain View for a Development Review Permit for the construction\nof a 4-story, 111,443 square foot office building with outdoor amenity space and a\nsurface parking lot; a Heritage Tree Removal Permit to remove 33 Heritage trees,\nand a lot merger to combine 9 lots into one parcel on a 7.3-acre site, located on the\nnortheast corner of N. Shoreline Boulevard and Terra Bella Avenue in the ML\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Calvano Development/CPR Mountain View \u2013 Office (1001 N. Shoreline"
+        "description": "Request for a Precise Plan Amendment to the Whisman Station Precise Plan to allow\nsmall-lot single-family homes where rowhomes are required and a Planned\nCommunity Permit for 16 small-lot single-family homes on a vacant 2 acre project\nsite.\n", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Antenna Farm (Pacific Dr.)"
     }, 
     {
-        "address": "750 Moffett Boulevard (Moffett Gateway)", 
-        "description": "Request for a General Plan Land Use Map Amendment from undesignated Caltrans\nproperty to Mixed-Use Corridor, a Zoning Map Amendment from A (Agriculture)\nand undesignated Caltrans property to P (Planned Community), and a Planned\nCommunity Permit and Development Review Permit for a 255 room hotel and\n200,000 square foot office building on a vacant 10 acre project site. The project site is\nlocated in the southwest quadrant of Highway 101 and Moffett Boulevard.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "750 Moffett Boulevard (Moffett Gateway)"
+        "address": "1951 Colony St.", 
+        "description": "In November 2013, the City Council approved a General Plan Amendment from\nGeneral Industrial to Medium Density Residential (13 to 25 units per acre), a Zoning\nMap Amendment from the General Industrial (MM-40) district to the Multiple-\nFamily Residential (R3-2) district, a Planned Unit Development Permit for a 33 unit\nrowhouse project, and a Heritage Tree Removal Permit to allow the removal of 11\nHeritage Trees on a 1.83 acre project site, located on the southeast corner of Sierra\nVista Avenue and Colony Street.\n", 
+        "location": [
+            37.4156099, 
+            -122.0887433
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "William Lyon Homes (1951 Colony St.)"
+    }, 
+    {
+        "address": "111 & 123 Fairchild Dr.", 
+        "description": "In January 2014, the City Council approved a request for a Planned Community\nPermit and Planned Unit Development Permit to allow 18 rowhomes, replacing 6\napartment units and 5 industrial buildings, and a Heritage Tree Removal Permit to\nremove eight Heritage trees, on a 1.0-acre project site, located on the southeast\ncorner of Tyrella Avenue and Fairchild Drive.\n", 
+        "location": [
+            37.4060952, 
+            -122.0615777
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Dividend Homes (111 & 123 Fairchild Dr.)"
+    }, 
+    {
+        "address": "325, 333 & 339 Franklin Street", 
+        "description": "Request for review of a Planned Community Permit to replace 13 existing rental\nunits with a 15-unit condo project on a 0.52 acre lot.\n", 
+        "location": [
+            37.3927959, 
+            -122.0820357
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Residential Condominium Project (325, 333 & 339 Franklin Street)"
+    }, 
+    {
+        "address": "779 E. Evelyn Avenue", 
+        "description": "Request for a General Plan Map Amendment to alter the land use designation from\nGeneral Industrial to High-Density Residential, a Zoning Map Amendment to\nrezone the property from P(30) Sylvan-Dale Precise Plan to R4 (High-Density\nResidential) zoning district, a Development Review Permit to construct a 4-story,\n116-unit apartment building for low- and very-low income households with two on-\nsite manager units and one-level of underground parking, a Heritage Tree Removal\nPermit to remove four Heritage trees and relocate one Heritage tree, and replace an\nexisting two-story office building and a one-story commercial building.\n", 
+        "location": [
+            37.3849756, 
+            -122.0531151
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Evelyn Family Apartments (779 E. Evelyn Avenue)"
     }, 
     {
         "address": "1045-1085 La Avenida Street", 
-        "description": "Formal review of a request for a Planned Community Permit to demolish three\noffice buildings (1, 3 & 4), renovate two existing office buildings (2 & 5), construct a\nnew two story main office building and a new four-level parking garage, and a\nHeritage Tree Removal Permit for the removal of 85 Heritage trees. The net new\nsquare footage is 128,000 square feet to the existing 515,000 square feet of office\nspace. The 32-acre project site is located at the southeast corner of La Avenida\nAvenue and Macon Avenue in the P-39 (North Bayshore 2014) Precise Plan.\n", 
+        "description": "Request for a Planned Community Permit to demolish three office buildings (1, 3 &\n4), renovate two existing office buildings (2 & 5), construct a new six-story main\noffice building and a new three-level parking garage, and a Heritage Tree Removal\nPermit for the removal of 36 Heritage trees. The net new square footage is 128,000\nsquare feet to the existing 515,000 square feet of office space. The 32-acre project site\nis located at the southeast corner of La Avenida Avenue and Macon Avenue in the\nP-39 (North Bayshore 2014) Precise Plan.\n", 
         "location": [
-            37.4122711, 
-            -122.0721571
+            37.41099940000001, 
+            -122.0703314
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "Microsoft (1045-1085 La Avenida Street)"
     }, 
     {
-        "address": "840 East El Camino Real", 
-        "description": "Request for a Planned Community Permit to allow an 18,748 square-foot, four-story\nwing addition, including 40 new guest rooms and 4,122 square feet of ground floor\ncommercial space to an existing four-story, 160-room hotel, a Provisional Use Permit\nfor roof top amenities above the third floor, and a Heritage Tree Removal Permit to\nremove three Heritage trees, on an existing 2.3 acre site.\n", 
+        "address": "2268 W. El Camino Real", 
+        "description": "In June, the applicant applied for a Planned Community Permit and Development\nReview Permit for a new 3 to 4 story, 204-unit residential apartment project with\nunderground parking on a 2.6 acre site replacing the 21,026 square foot Olive Tree\nShopping Center and 4 single-story commercial structures along El Camino Real and\nLatham Street. This property is located on the north side of West El Camino Real\nand the south side Latham Street between Ortega Avenue and South Rengstorff\nAvenue in the P-38 (El Camino Real) Precise Plan.\n", 
         "location": [
-            37.376483, 
-            -122.061739
+            37.3970065, 
+            -122.104044
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "840 East El Camino Real"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Lennar Multi Family Communities (2268 W. El Camino Real)"
     }, 
     {
         "address": "870 Leong Dr.", 
         "description": "Request for a Planned Community Permit and Development Review Permit for the\nconstruction of a new 41,039 square foot, 78-room hotel, on a 0.85-acre site, located\non the west side of Leong Drive.\n", 
         "location": [
-            37.4061194, 
-            -122.0656914
+            37.40612429999999, 
+            -122.0656787
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "Holiday Inn Express (870 Leong Dr.)"
     }, 
     {
-        "address": "394 Ortega Avenue", 
-        "description": "In December 2015, Anton Development Company submitted a formal request for a\nPlanned Community Permit for a 4-story, 144-unit apartment building with 2 levels\nof underground parking to replace a single family home and accessory structures.\nThe 1.62-acre project site is on the southwest corner of California Street and Ortega\nAvenue in the San Antonio Precise Plan area.\n", 
+        "address": "1740 W. El Camino Real", 
+        "description": "In August 2013, the Zoning Administrator approved a Conditional Use Permit for a\nnew four story, 22,000 square foot hotel building with 32 rooms on a 0.38-acre site.\n", 
         "location": [
-            37.40084, 
-            -122.104942
+            37.3917378, 
+            -122.0947005
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Anton Caltega (394 Ortega Avenue)"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Residence Inn (1740 W. El Camino Real)"
+    }, 
+    {
+        "address": "1968 Hackett Ave. & 208-210 Sierra Vista Ave.", 
+        "description": "The applicant submitted a request for a Planned Unit Development and\nDevelopment Review Permits to allow construction of a 24-unit rowhouse project to\nreplace 21 existing apartment units and a request to remove 8 Heritage trees on a\n1.60 acre project site in the R3-2.2 (Multiple-Family) Zoning District.\n", 
+        "location": [
+            37.404669, 
+            -122.092946
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "1968 Hackett Ave. & 208-210 Sierra Vista Ave."
     }, 
     {
         "description": "Request for a Planned Community Permit, Planned Unit Development and Heritage\nTree Removal permit to demolish 15 existing industrial buildings on 17 lots in order\nto construct 75 attached rowhomes, and a 0.45-acre public park on a 5.13 acre total\nproject site. The project is located on the east side of Ortega Avenue between\nCalifornia Street and the terminus of Ortega Avenue.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18651", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "Mora-Ortega Precise Plan"
     }, 
     {
-        "description": "The City\u2019s 2016 Trip Cap Report was submitted to the City Council on June 7, 2016\nand is available on the City\u2019s website.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "description": "On June 23, 2015, the City Council accepted the City's North Bayshore Trip Cap\nReport. Updated North Bayshore traffic counts are planned in fall, 2015. This\ninformation will be made available on the City's website.\n", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "North Bayshore Trip Cap Report"
     }, 
     {
-        "address": "2296 Mora Drive", 
-        "description": "Request for a Planned Community Permit, Planned Unit Development and Heritage\nTree Removal permit to demolish 15 existing industrial buildings on 17 lots in order\nto construct 75 attached rowhomes, and a 0.45-acre public park on a 5.13 acre total\nproject site. The project is located on the east side of Ortega Avenue between\nCalifornia Street and the terminus of Ortega Avenue.\n", 
+        "address": "858 Sierra Vista Ave.", 
+        "description": "On November 12, 2014 the City Council approved a Request for a Planned Unit\nDevelopment Permit, Development Review Permit, and Heritage Tree Removal\nPermit to allow for four small-lot, single-family homes to replace an existing home,\non a 0.52 acre project site, located on the west side of Sierra Vista Avenue between\nColony Street and Plymouth Street in the R3-2 (Multiple-Family Residential) district.\n", 
         "location": [
-            37.403637, 
-            -122.1024554
+            37.416569, 
+            -122.0899137
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "2296 Mora Drive"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Paul Ryan (858 Sierra Vista Ave.)"
+    }, 
+    {
+        "address": "1625 North Shoreline Boulevard", 
+        "description": "Request for a Planned Community Permit to construct a five-story, 200-room hotel\nand a four-level parking structure and a Heritage Tree Removal Permit to remove 4\nHeritage trees on a 1.35 acre site. The site is located on the southeast corner of North\nShoreline Boulevard and Space Park Way in the P-39 (North Bayshore 2014) Precise\nPlan.\n", 
+        "location": [
+            37.4168524, 
+            -122.0775749
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Shashi Hotel (1625 North Shoreline Boulevard)"
+    }, 
+    {
+        "address": "582 Hope Street, corner of Castro & Church", 
+        "description": "Request for a Planned Community Permit to construct a mixed-use development\nwith (1) a 3- to 4-story, 96,500 square foot commercial building along Castro Street\nwith 8,000 square feet of ground-floor retail and 3-levels of underground parking;\n", 
+        "location": [
+            37.3881027, 
+            -122.0814032
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "St. Joseph's Church (582 Hope Street, corner of Castro & Church)"
+    }, 
+    {
+        "address": "2645 & 2655 Fayette Drive", 
+        "description": "Request for a Development Review Permit and Tentative Map for a new four-story,\n24-unit condominium development with underground parking and a Heritage Tree\nRemoval Permit for nine trees on a 0.65-acre site located on the south side of Fayette\nDrive in the R3-D (Multiple-Family) District. The project will replace a commercial\nbuilding and six existing residential units.\n", 
+        "location": [
+            37.4037182, 
+            -122.114343
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "The DeNardi Group (2645 & 2655 Fayette Drive)"
+    }, 
+    {
+        "address": "100 Moffett Blvd.", 
+        "description": "In December 2013, the City Council approved a 184-unit apartment project. The\nproject includes three new residential buildings on an approximately 2.68 acre site.\nThe project includes the conversion of an existing vehicle on-ramp to a\nbicycle/pedestrian-only paseo connecting Stierlin Road to the corner of Central\nExpressway and Moffett Boulevard.\n", 
+        "location": [
+            37.3966257, 
+            -122.0776193
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Prometheus (100 Moffett Blvd.)"
+    }, 
+    {
+        "address": "881 Castro Street", 
+        "description": "Request for a Provisional Use Permit and Planned Community Permit to construct a\n4-story, mixed-use building with 9,200 sq. ft. of ground-floor commercial space and\n18 condominium units with two levels of underground parking and a Tentative Map\nto merge four lots into one lot with condominium lots to replace three existing\ncommercial buildings and a four-unit apartment building on a 0.41-acre project site.\nThe project site is located on the northeast corner of Castro Street and Fairmont\nAvenue through to Hope Street in the P-19 (Downtown) Precise Plan.\n", 
+        "location": [
+            37.3864834, 
+            -122.0831951
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Fairmont Mixed Use Project (881 Castro Street)"
+    }, 
+    {
+        "address": "1946 San Luis Ave.", 
+        "description": "In May, 2014 the City Council approved a request by Classic Communities for a 28\nunit rowhouse project on a 1.6 acre site. The properties included a total of 25\nexisting units.\n", 
+        "location": [
+            37.40814200000001, 
+            -122.091209
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Classic Communities (1946 San Luis Ave.)"
+    }, 
+    {
+        "address": "1101 W. El Camino Real", 
+        "description": "On November 12, 2014, the City Council approved a Zoning Map Amendment to\nrezone the rear portion of the project site from R2-9sd (One- and Two-Family\nResidential Special Design) district to the CRA (Commercial/Residential-Arterial)\ndistrict and a General Plan Map Amendment to alter the land use designation for\nthe same portion of the project site from Medium-Density Residential to Mixed-Use\nCorridor, a Conditional Use Permit and Development Review Permit for a 4-story,\n52-unit condominium development with a 35% density bonus, under State Density\nBonus Law, and one-level of underground parking, and a Heritage Tree Removal\nPermit to remove one Heritage Tree on a 0.98 acre (42,127-square-foot) project site.\nThe proposed project includes demolishing the existing Harv's Carwash and\nreplacing it with 52 ownership units, resulting in approximately 73,445 net new\nsquare feet of development on the site.\n", 
+        "location": [
+            37.3871956, 
+            -122.0874061
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Harv's Car Wash - Regis Homes (1101 W. El Camino Real)"
+    }, 
+    {
+        "description": "On June 23, 2015, the City Council accepted a VTA grant to help develop a new East\nWhisman Precise Plan. A scope of work for this new plan will be brought to the\nCity Council in 2016.\n", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "East Whisman Precise Plan"
+    }, 
+    {
+        "address": "750 Moffett Boulevard (Moffett Gateway)", 
+        "description": "Request for a General Plan Land Use Map Amendment from undesignated Caltrans\nproperty to Mixed-Use Corridor, a Zoning Map Amendment from A (Agriculture)\nand undesignated Caltrans property to P (Planned Community), and a Planned\nCommunity Permit and Development Review Permit for a 255 room hotel and\n199,000 square foot office building on a vacant 10 acre project site. The project site is\nlocated in the southwest quadrant of Highway 101 and Moffett Boulevard.\n", 
+        "location": [
+            37.406411, 
+            -122.068325
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "750 Moffett Boulevard (Moffett Gateway)"
     }, 
     {
         "address": "2000 North Shoreline Boulevard", 
-        "description": "Request for a Planned Community Permit and Development Review Permit for a\n595,000 square foot, two-story, office building under a canopy structure and a\nHeritage Tree Removal Permit on a vacant 18.6 acre project site. The property is\nlocated on the northwest corner of Charleston Road and North Shoreline Boulevard\nin the P-39 (North Bayshore) Precise Plan.\n", 
+        "description": "Request for the informal review of a 595,000 square foot office building, including\napproximately 72,000 square feet of retail/amenity space and associated\nunderground parking under a dome and the removal of approximately 57 heritage\ntrees on a vacant 18.6 acre project site. The site is bounded by Charleston Park to the\nwest, Amphitheatre Parkway to the north, North Shoreline Boulevard to the east\nand Charleston Road to the south in the P-39 (North Bayshore) Precise Plan.\n", 
         "location": [
-            37.424005, 
-            -122.0780735
+            37.423641, 
+            -122.0782372
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "Charleston East (2000 North Shoreline Boulevard)"
     }, 
     {
-        "description": "", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=21420", 
-        "title": "45                                                                                                                                   \""
-    }, 
-    {
-        "description": "Informal review of a Master Plan for long term redevelopment of the east side of San\nAntonio Center. This property is located on the west side of Showers Drive,\nbetween El Camino Real and California Street in the P-40 (San Antonio) Precise Plan.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "East San Antonio Center Master Plan"
-    }, 
-    {
-        "address": "500 Moffett Boulevard", 
-        "description": "Request for annexation of an approximately 17-acre parcel to allow multi-family\nresidential redevelopment; a General Plan Amendment from Medium-Low Density\nResidential to a designation to be determined; a Zoning Map Amendment from\nPRE-PF to P (Planned Community / Precise Plan); a new Precise Plan to regulate\nfuture development activities on the site; and a CEQA/NEPA determination (TBD).\nThis property is located at the northwest corner of Moffett Boulevard and West\nMiddlefield Road in the PRE-PF (Public Facilities) district.\n", 
+        "address": "1075 Terra Bella Avenue", 
+        "description": "In April 2015, Calvano Development submitted a request for a Development Review\nPermit for a new 13,046 square foot R&D building on a 37,312 square foot site, and a\nHeritage Tree Removal Permit for the removal of up to 24 heritage trees. The site\ncurrently contains several small residential structures in the MM (General\nIndustrial) Zoning District.\n", 
         "location": [
-            37.4004743, 
-            -122.0729985
+            37.407974, 
+            -122.074845
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Shenandoah Square Precise Plan (500 Moffett Boulevard)"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "1075 Terra Bella Avenue"
+    }, 
+    {
+        "address": "500 Ferguson Drive (EFL Development)", 
+        "description": "In June 2015, the City Council approved a Planned Community Permit for 394\nresidential apartments and 3,000 square feet of commercial space, in two four-story\nbuildings over an underground parking garage. The project site is located in the\nSouth Whisman Precise Plan and is part of the South Whisman Master Plan.\n", 
+        "location": [
+            37.3908855, 
+            -122.0535801
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "500 Ferguson Drive (EFL Development)"
+    }, 
+    {
+        "address": "827 N. Rengstorff Ave.", 
+        "description": "In April 2013, the City Council authorized a Gatekeeper request by City Ventures to\nstudy a rezoning of 1.4 acres of industrial land to allow a mixed-use retail and\ncondominium project. After further consideration, City Ventures proposed a lower-\ndensity rowhouse project. In June 2014, the City Council approved a General Plan\nLand Use Map Amendment from Limited Industrial to Medium Density Residential\n", 
+        "location": [
+            37.4155678, 
+            -122.0923547
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "D.R. Horton (827 N. Rengstorff Ave.)"
+    }, 
+    {
+        "address": "660 Tyrella Avenue", 
+        "description": "In March 2015, the applicant submitted a request for a Planned Community Permit\nand Development Review Permit for a 37 unit rowhouse project and a Heritage Tree\nRemoval Permit to remove eight heritage trees to replace 52 apartment units on a\n1.84 acre project site, located on the southwest corner of Tyrella Avenue and\nFairchild Drive.\n", 
+        "location": [
+            37.4064044, 
+            -122.0630151
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "660 Tyrella Avenue"
+    }, 
+    {
+        "address": "1001 N. Shoreline Blvd", 
+        "description": "Request for a Development Review Permit for the construction of a 4-story, 111,443\nsquare foot office building with outdoor amenity space and a surface parking lot; a\nHeritage Tree Removal Permit to remove 33 Heritage trees, and a lot merger to\ncombine 9 lots into one parcel on a 7.3-acre site, located on the northeast corner of N.\nShoreline Boulevard and Terra Bella Avenue in the ML (Limited Industrial) and MM\n", 
+        "location": [
+            37.4089805, 
+            -122.0774418
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Calvano Development (1001 N. Shoreline Blvd)"
+    }, 
+    {
+        "address": "600 National Ave.", 
+        "description": "In May 2014, the City Council approved a request by National Avenue Partners to\nrezone 4.8 acres (210,346 sq. ft.) from ML (Limited Industrial) District to P (Planned\nCommunity) District to allow a new 4-story, 140,654 sq. ft. office building (0.67 FAR)\na one-story parking structure and the removal of 11 Heritage trees to replace four\nindustrial buildings.\n", 
+        "location": [
+            37.4016398, 
+            -122.054288
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "National Avenue Partners (600 National Ave.)"
+    }, 
+    {
+        "address": "1958 Rock St.", 
+        "description": "In June 2013, the City Council approved a request for a Planned Unit Development\nto allow 19 rowhomes, replacing 12 apartment units, and a Heritage Tree Removal\nPermit for the removal of 5 Heritage trees, on a 1.13-acre project site, located\nbetween Sierra Vista Avenue and North Rengstorff Avenue.\n", 
+        "location": [
+            37.4125741, 
+            -122.0901141
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Dividend Homes (1958 Rock St.)"
+    }, 
+    {
+        "description": "On June 16, 2015, the City Council authorized a contract with Economic Planning\nSystems, Inc. to develop a North Bayshore Development Impact Fee. This fee is\nexpected to be considered for adoption by the City Council in early 2016.\n", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "North Bayshore Development Impact Fee (Nexus Study)"
+    }, 
+    {
+        "description": "In November 2015 the City Council approved a scope of work for a Multimodal\nImprovement Plan. The Plan will include City improvements, programs and\nservices to support alternative transportation modes, such as bicycles, transit and\nwalking. It will comply with VTA requirements to document existing and future\nefforts to address increased vehicle congestion and will be reviewed by the VTA\nBoard of Directors. The project also includes a nexus study to adopt a City-wide\nTransportation Impact Fee.\n", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Multimodal Improvement Plan"
+    }, 
+    {
+        "address": "2500 Grant Rd.", 
+        "description": "Request for a Planned Community Permit to construct a new 2-story, 63,000 sq. ft.\nBehavioral Health building, a new 7-story, 260,000 sq. ft. medical office building, a\nnew 5-level 350-stall parking structure adjacent to the new medical office building,\nand 4-level, 370-stall addition to the existing North Parking Garage; and a Heritage\nTree Removal Permit to remove 15 heritage trees and relocate 15 heritage trees on\nthe 40-acre hospital campus. The project includes demolition of the following\nexisting buildings: a 21,300 sq. ft. behavioral health building, a 278,372 sq. ft. Old\nMain Hospital Building, and a 90,000 sq. ft. North Addition Building (adjacent to the\nOld Main Hospital) and removal of 198 surface parking stalls.\n", 
+        "location": [
+            37.3694772, 
+            -122.0799117
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "El Camino Real Hospital Campus Update (2500 Grant Rd.)"
+    }, 
+    {
+        "description": "In January 2014, Google submitted an application for a habitat restoration project at\nthe Charleston Retention Basin. The project includes restoration and enhancement\nof wetlands, the surrounding landscape, and trail system for the area.\n", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Charleston Retention Basin Habitat Restoration Project"
+    }, 
+    {
+        "address": "394 Ortega Avenue", 
+        "description": "In July 2015, Anton Development Company submitted a request for informal review\nof a 5-story, 190-unit apartment building with 2 levels of underground parking to\nreplace a single family home and accessory structures. The 2.04-acre project site is\non the southwest corner of California Street and Ortega Avenue in the San Antonio\nPrecise Plan area.\n", 
+        "location": [
+            37.401202, 
+            -122.105069
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Anton Caltega (394 Ortega Avenue)"
+    }, 
+    {
+        "address": "369 N. Whisman Rd.", 
+        "description": "In September 2011, the City Council approved a request for a Transit Oriented\nDevelopment, Planned Unit Development Permit and Heritage Tree Removal\nPermit to construct a three-story 70,846 sq. ft. office building, a four-story 109,927 sq.\nft. office building and two four-story parking structures on a 29.3-acre site (0.49\nFAR) with seven existing office buildings and the removal of 22 heritage trees. The\napproval also included a parking reduction of 143 spaces or 6.9 percent of the\nrequired parking, a Tentative Map to create 13 parcels, and a 10-year Development\nAgreement. The site is located on the east side of N. Whisman, north of E.\nMiddlefield Road.\n", 
+        "location": [
+            37.3986182, 
+            -122.0586202
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "The Quad / Lovewell (369 N. Whisman Rd.)"
+    }, 
+    {
+        "address": "231-235 Hope St.", 
+        "description": "In June 2015, the City Council approved a request for a Planned Community permit\nand Provisional Use Permit for a four story, 9-unit condominium project replacing\nthree apartment units, and a Heritage Tree removal permit to remove 2 Heritage\nTrees on a 0.26 acre site located on the east side of Hope Street between Villa and\nDana Street.\n", 
+        "location": [
+            37.392709, 
+            -122.077844
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Hope Street Investors (231-235 Hope St.)"
+    }, 
+    {
+        "address": "1720 W. El Camino Real", 
+        "description": "In March 2013, the City Council approved a request for a Rezone from CRA\n", 
+        "location": [
+            37.3909058, 
+            -122.0934972
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Tropicana Lodge  Prometheus (1720 W. El Camino Real)"
+    }, 
+    {
+        "address": "580  620 Clyde Avenue", 
+        "description": "On November 17, 2014, the City Council authorized staff to study a new 178,477\nsquare foot, 5-story office building and a three-story parking garage on a 5.15 acre\nsite. In April 2015, the applicant submitted a formal application, including a request\nfor a rezoning from ML (Limited Industrial) to P (Planned Community), and a\nHeritage Tree Removal Permit for the removal of up to 39 Heritage trees. The\nproject would replace two one-story light industrial buildings totaling\napproximately 75,000 square feet.\n", 
+        "location": [
+            37.4001978, 
+            -122.0474322
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Renault & Handley (580  620 Clyde Avenue)"
+    }, 
+    {
+        "address": "1854 W. El Camino Real", 
+        "description": "Request for a Development Review Permit to allow the construction of an 8,940\nsquare foot hotel gatehouse and a Heritage Tree Removal Permit for the removal of\n3 heritage trees on a 3.22 acre project site, located on the north side of El Camino\nReal West, between Mariposa and Escuela Avenue.\n", 
+        "location": [
+            37.3929601, 
+            -122.0957154
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Residence Inn Gatehouse (1854 W. El Camino Real)"
     }, 
     {
         "address": "1958 Latham Street", 
         "description": "In January 2015, a formal application was submitted for a new three story, 6-unit\nrowhouse project on a 0.39-acre site, replacing a single-family home and a large\ngarage structure and a Heritage Tree Removal Permit for the removal of up to five\nHeritage trees. In August 2015 the project was revised to preserve the two large\nCoast Live Oaks on the property.\n", 
         "location": [
-            37.3952285, 
-            -122.0969448
+            37.3951987, 
+            -122.0969036
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "Barry Swenson Builder (1958 Latham Street)"
     }, 
     {
-        "address": "2044 and 2054 Montecito Avenue (SummerHill Homes LLC)", 
-        "description": "Request for a Planned Unit Development and a Development Review Permit to\ncreate 52 residential lots associated with a rowhouse development and a Tree\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "2044 and 2054 Montecito Avenue (SummerHill Homes LLC)"
-    }, 
-    {
-        "address": "2300 W. El Camino Real", 
-        "description": "In February 2016, the applicant submitted a Planned Community Permit and a\nProvisional Use Permit to allow construction of a new four-story, 157 room hotel\nwith a level of underground parking. The project site is located on the north side of\nEl Camino Real between Ortega Avenue and South Rengstorff Avenue in the El\nCamino Real Precise Plan (P38) District.\n", 
+        "address": "574 Escuela Ave.", 
+        "description": "In January 2013, the City Council approved a Zoning Text Amendment, Conditional\nUse Permit, Planned Unit Development Permit and Heritage Tree Removal permit\nto allow 44 senior assisted living beds, in a two-story, senior assisted-living project\nto replace an existing multi-family building on a 0.55 acres project site.\n", 
         "location": [
-            37.397649, 
-            -122.1052243
+            37.395064, 
+            -122.09583
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22120", 
-        "title": "2300 W. El Camino Real"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Senior Assisted Living (574 Escuela Ave.)"
     }, 
     {
-        "address": "2392 Rock St.", 
-        "description": "In March 2013, Paul Ryan submitted a request for a Planned Unit Development\nPermit and a Heritage Tree Removal Permit associated with a 3-unit small-lot single-\nfamily development on a 0.38 acre site.\n", 
+        "address": "450 N. Whisman Dr.", 
+        "description": "In April 2013, the applicant submitted a request for a Planned Unit Development\nPermit and Development Review Permit for a 37-unit rowhouse development and a\npublic trail on a vacant 6.4 acre property, located on North Whisman Road between\nWhisman Court and Walker Drive. The City Council approved the project on\nNovember 12, 2014.\n", 
         "location": [
-            37.4128968, 
-            -122.0970504
+            37.40107880000001, 
+            -122.0603463
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Paul Ryan (2392 Rock St.)"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Hetch-Hetchy Property (450 N. Whisman Dr.)"
     }, 
     {
-        "description": "", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "47                                                                                                                             58"
-    }, 
-    {
-        "address": "167 North Whisman Road", 
-        "description": "In September 2013, plans were submitted for a 2-unit small-lot single-family\nsubdivision totaling approximately 6,600 square feet on 0.3 acres in the Whisman\nStation Precise Plan area.\n", 
+        "address": "605 Castro St.", 
+        "description": "In April 2013, the City Council approved a Planned Community Permit for a new\nfour story, mixed use building with eight condominium units and 28,000 square feet\nof commercial space and Heritage Tree Removal Permit for the removal of four\nHeritage trees, to replace two office buildings and a single-family residence on a\n0.46-acre project site.\n", 
         "location": [
-            37.39298, 
-            -122.060675
+            37.3880522, 
+            -122.0822798
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=19722", 
-        "title": "167 North Whisman Road"
-    }, 
-    {
-        "address": "100 and 420-430 Ferguson Drive (Pulte Homes)", 
-        "description": "In June 2015, the City Council approved a Planned Community Permit for 198\nrowhouse units, a 2.76-acre public park, and new public streets. The project site is\nlocated in the South Whisman Precise Plan and is part of the South Whisman Master\nPlan.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "100 and 420-430 Ferguson Drive (Pulte Homes)"
-    }, 
-    {
-        "address": "1400 North Shoreline Boulevard (Google and Sywest)", 
-        "description": "Request for a Master Plan for a mixed-use development, and a Planned Community\nPermit for 1,491,789 square feet of office, 93,036 square feet of retail and restaurant\nspace, 98,000 square feet of athletic club, 88,500 square feet of theater, and a 98,969\nsquare foot hotel, over two levels of underground parking and one level of podium\nparking, for a total gross building area of 1,870,294 square feet and a 1.69 total gross\nbuilding FAR.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "1400 North Shoreline Boulevard (Google and Sywest)"
-    }, 
-    {
-        "address": "460 North Shoreline Boulevard", 
-        "description": "Request for a Planned Community Permit to allow an amendment to the P-5 (460 N.\nShoreline Boulevard) Precise Plan to demolish 12 affordable townhome units and\nreplace them with 62 affordable units (21 studios, 21 one-bedrooms, 8 two-\nbedrooms, and 12 three-bedrooms), Heritage Tree Removal Permit to remove 35\ntrees (18 Heritage). This property is located on the west side of North Shoreline\nBoulevard between Montecito Avenue and Wright Avenue in the P-5 (460 North\nShoreline Boulevard) Precise Plan.\n", 
-        "location": [
-            37.4011009, 
-            -122.0807208
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22120", 
-        "title": "460 North Shoreline Boulevard"
-    }, 
-    {
-        "address": "1313 and 1347 West El Camino Real", 
-        "description": "", 
-        "location": [
-            37.3884311, 
-            -122.0900351
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "1313 and 1347 West El Camino Real"
-    }, 
-    {
-        "address": "86 W. El Camino Real", 
-        "description": "On October 14, 2015, the Zoning Administrator approved an application by Wonder\nYears Preschool to build a new 2-story, 4,800-square-foot preschool building on a\nsite adjacent to their current property. The project would replace an existing 1-story\nbuilding that currently houses a car-stereo business.\n", 
-        "location": [
-            37.3818147, 
-            -122.0751759
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Wonder Years Preschool (86 W. El Camino Real)"
-    }, 
-    {
-        "address": "1951 Colony St.", 
-        "description": "In November 2013, the City Council approved a General Plan Amendment from\nGeneral Industrial to Medium Density Residential (13 to 25 units per acre), a Zoning\nMap Amendment from the General Industrial (MM-40) district to the Multiple-\nFamily Residential (R3-2) district, a Planned Unit Development Permit for a 33 unit\nrowhouse project, and a Heritage Tree Removal Permit to allow the removal of 11\nheritage Trees on a 1.83 acre project site, located on the southeast corner of Sierra\nVista Avenue and Colony Street.\n", 
-        "location": [
-            37.4152496, 
-            -122.0885992
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18928", 
-        "title": "William Lyon Homes (1951 Colony St.)"
-    }, 
-    {
-        "address": "1185 Terra Bella Avenue", 
-        "description": "Request for a Development Review Permit to construct a new two-story 9,700 Square foot\ncommercial office building to replace two existing commercial buildings, a Heritage Tree\nRemoval Permit for the removal of three Heritage trees on a 0.43-acre project site. This\nproperty is located on the south side of Terra Bella Avenue, between North Shoreline\nBoulevard and Linda Vista Avenue in the ML (Limited Industrial) district.\n", 
-        "location": [
-            37.4082358, 
-            -122.0772379
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "1185 Terra Bella Avenue"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Downtown Mixed Use Building (605 Castro St.)"
     }, 
     {
         "address": "1616 W. El Camino Real", 
@@ -852,117 +471,17 @@
             37.390614, 
             -122.092679
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "Austin\u2019s \u2013 Prometheus (1616 W. El Camino Real)"
-    }, 
-    {
-        "address": "1720 W. El Camino Real", 
-        "description": "In March 2013, the City Council approved a request for a Rezone from CRA\n", 
-        "location": [
-            37.3910204, 
-            -122.0935639
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "Tropicana Lodge \u2013 Prometheus (1720 W. El Camino Real)"
-    }, 
-    {
-        "description": "Boulevard)\nRequest CRP Mountain View for a rezone from ML (Limited Industrial) to P\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Calvano/CPR Mountain View Development \u2013 Residences (1001 N. Shoreline"
-    }, 
-    {
-        "address": "1968 Hackett Ave. & 208-210 Sierra Vista Ave.", 
-        "description": "The applicant submitted a request for a Planned Unit Development and\nDevelopment Review Permits to allow construction of a 24-unit rowhouse project to\nreplace 21 existing apartment units and a request to remove 8 Heritage trees on a\n1.60 acre project site in the R3-2.2 (Multiple-Family) Zoning District.\n", 
-        "location": [
-            37.4038009, 
-            -122.0921389
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "1968 Hackett Ave. & 208-210 Sierra Vista Ave."
-    }, 
-    {
-        "description": "On June 23, 2015, the City Council accepted a VTA grant to help develop a new East\nWhisman Precise Plan. In March 2016 the City Council authorized the scope of\nwork for the new plan. Concluding the July 16, 2016 community workshop, staff\nshared outcomes of the workshop with the EPC and City Council at Study Sessions\nin August and September of 2016. A second community workshop was held in\nDecember 2016, followed by Study Sessions with the EPC and City Council in\nFebruary 2017, to endorse a preferred land use alternative. Staff will use the\npreferred alternative to begin work on the Environmental Impact Report.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "East Whisman Precise Plan"
-    }, 
-    {
-        "address": "231-235 Hope St.", 
-        "description": "In June 2015, the City Council approved a request for a Planned Community permit\nand Provisional Use Permit for a four story, 9-unit condominium project replacing\nthree apartment units, and a Heritage Tree removal permit to remove 2 Heritage\ntrees on a 0.26 acre site located on the east side of Hope Street between Villa and\nDana Street.\n", 
-        "location": [
-            37.3927236, 
-            -122.078034
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Hope Street Investors (231-235 Hope St.)"
-    }, 
-    {
-        "address": "827 N. Rengstorff Ave.", 
-        "description": "In April 2013, the City Council authorized a Gatekeeper request by City Ventures to\nstudy a rezoning of 1.4 acres of industrial land to allow a mixed-use retail and\ncondominium project. After further consideration, City Ventures proposed a lower-\ndensity rowhouse project. In June 2014, the City Council approved a General Plan\nLand Use Map Amendment from Limited Industrial to Medium Density Residential\n", 
-        "location": [
-            37.4155866, 
-            -122.0922956
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=21420", 
-        "title": "D.R. Horton (827 N. Rengstorff Ave.)"
-    }, 
-    {
-        "address": "390 Moffett Blvd.", 
-        "description": "In March 2014, the Zoning Administrator approved an application by Hampton Inn\nand Suites to allow an 11,630 square foot, 21 room addition to an existing 52,707\nsquare foot, 87 room hotel (Hampton Inn and Suites), a parking reduction of 18\nspaces (93 from the required 111), and a Heritage Tree Removal Permit to remove 1\nHeritage tree on a 1.34 acre project site. Expansion was made possible when the\nhotel owner purchasing the adjacent parcel at 330 Moffett Blvd.\n", 
-        "location": [
-            37.398812, 
-            -122.07573
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20027", 
-        "title": "Hampton Inn Addition (390 Moffett Blvd.)"
-    }, 
-    {
-        "address": "700 E. Middlefield Road and 1100 W. Maude Avenue", 
-        "description": "Request for exterior building modifications, site and landscape modifications, and a\nparking reduction at an existing office campus.\n", 
-        "location": [
-            37.3944965, 
-            -122.0503914
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22120", 
-        "title": "LinkedIn (700 E. Middlefield Road and 1100 W. Maude Avenue)"
-    }, 
-    {
-        "address": "1854 W. El Camino Real", 
-        "description": "Request for a Development Review Permit to allow the construction of an 8,940\nsquare foot hotel gatehouse and a Heritage Tree Removal Permit for the removal of\n3 Heritage trees on a 3.22 acre project site, located on the north side of El Camino\nReal West, between Mariposa and Escuela Avenue.\n", 
-        "location": [
-            37.392319, 
-            -122.09499
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "Residence Inn Gatehouse (1854 W. El Camino Real)"
-    }, 
-    {
-        "address": "605 Castro St.", 
-        "description": "In April 2013, the City Council approved a Planned Community Permit for a new\nfour story, mixed use building with eight condominium units and 28,000 square feet\nof commercial space and Heritage Tree Removal Permit for the removal of four\nHeritage trees, to replace two office buildings and a single-family residence on a\n0.46-acre project site.\n", 
-        "location": [
-            37.3880585, 
-            -122.0822415
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20027", 
-        "title": "Downtown Mixed Use Building (605 Castro St.)"
-    }, 
-    {
-        "address": "2700 West El Camino Real", 
-        "description": "Request for a Planned Community Permit to construct 211 apartment units and\n2,000 square feet of ground floor commercial space with underground parking to\nreplace an existing motel and vacant restaurant buildings, including a 20% State\nDensity Bonus with development waivers allowing up to 2.20 floor area ratio and a\ntotal height of up to five stories/65 feet, reduced open space dimension to 15 feet\nwide, and a Heritage Tree Removal Permit to remove five Heritage trees on a 2.2\nacre project site on the north side of El Camino Real between Del Medio Avenue and\nCesano Court in the P-38 (El Camino Real) Precise Plan.\n", 
-        "location": [
-            37.404379, 
-            -122.11685
-        ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "2700 West El Camino Real"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Austin's  Prometheus (1616 W. El Camino Real)"
     }, 
     {
         "address": "1625 Plymouth Street", 
-        "description": "Request for a Planned Community Permit for a new six story, 224,505 square foot\noffice building and a 4.5 tier parking structure and a Heritage Tree Removal permit\nfor the removal of 15 Heritage trees and the re-location of five Heritage trees on a\nvacant 5.15 acre lot, located on the south side of Plymouth Street between North\nShoreline Boulevard and Alta Avenue.\n", 
+        "description": "Request for a Planned Community Permit for a new six story, 224,505 square foot\noffice building and parking structure on a vacant 5.15 acre lot, located on the south\nside of Plymouth Street between North Shoreline Boulevard and Alta Avenue.\n", 
         "location": [
             37.415743, 
             -122.08291
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "Broadreach (1625 Plymouth Street)"
     }, 
     {
@@ -972,8 +491,18 @@
             37.4046804, 
             -122.1099329
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "Merlone Geier Partners (MGP) Phase II (405 San Antonio Rd.)"
+    }, 
+    {
+        "address": "277 Fairchild Dr.", 
+        "description": "In February 2014, the applicant submitted a Planned Community Permit request for\na rowhouse project on a 1.47 acre site with frontage on Fairchild Drive and Evandale\nAvenue on the block between North Whisman Road and Tyrella Avenue. The\nproject includes 22 3-story attached single-family homes and four 2-story detached\nsingle-family homes, facing Evandale Avenue. The project would remove up to 8\nHeritage Trees. Existing uses on the lot include two single-family homes, a motel,\nand a small convenience store.\n", 
+        "location": [
+            37.405251, 
+            -122.0577101
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Warmington Residential (277 Fairchild Dr.)"
     }, 
     {
         "address": "334 Bryant Avenue", 
@@ -982,7 +511,7 @@
             37.3612923, 
             -122.0758493
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "334 Bryant Avenue"
     }, 
     {
@@ -992,67 +521,152 @@
             37.38558099999999, 
             -122.084267
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "Greystar (801 W. El Camino Real)"
     }, 
     {
-        "description": "Avenue)\nRequest for a Planned Unit Development Permit, Development Review Permit, and\nTentative Tract Map for a new 33-unit rowhouse development on a vacant 0.93-acre\nsite. The project was initially submitted in October 2014 for a nine-unit development\non a vacant lot at 2065 San Luis Avenue. The Developer acquired the adjacent 17-\nunit apartment complex site at 2025 San Luis Avenue and submitted revised plans in\nAugust 2015 for an expanded project on both properties.\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "California Communities/Peninsula Communities (2025 and 2065 San Luis"
+        "address": "525 East Evelyn Ave.", 
+        "description": "In September 2012, the City Council approved a request for a Planned Unit\nDevelopment Permit, and Development Review Permit to allow a 70-unit attached\nrowhouse project and a Heritage Tree Removal Permit to remove 7 Heritage trees,\non a 3.65 acre lot with existing industrial buildings. The project is Phase II of the\nShea Home project on East Evelyn Avenue and is located on the south side of East\nEvelyn Avenue, east of Highway 237.\n", 
+        "location": [
+            37.385758, 
+            -122.055237
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Live Oak Properties (525 East Evelyn Ave.)"
+    }, 
+    {
+        "description": "Request for a Planned Community Permit and Planned Unit Development Permit to\nallow a new 35-unit rowhouse project and a Heritage Tree Removal Permit to\nremove 10 Heritage trees on a 1.8 acre project site, located on the south side of\nFairchild Drive between Tyrella Avenue and North Whisman Road.\n", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "133-149 Fairchild Dr."
     }, 
     {
         "address": "186 East Middlefield Rd.", 
-        "description": "In January 2015, the applicant submitted a request for a Planned Unit Development\nPermit and Development Review Permit for an 8-unit condominium project over a\nshared parking podium, replacing several small residential structures and a request\nto remove up to four Heritage trees. The project will be oriented toward Flynn Ave.\nand will not remove the structures facing East Middlefield Rd.\n", 
+        "description": "In January 2015, the applicant submitted a request for a Planned Unit Development\nPermit and Development Review Permit for an 8-unit condominium project,\nreplacing several small residential structures and a request to remove up to six\nHeritage trees. In August 2015 it was revised to an 8-unit condominium project over\na shared parking podium. The project will be oriented toward Flynn Ave. and will\nnot remove the structures facing East Middlefield Rd.\n", 
         "location": [
-            37.3982085, 
-            -122.0622085
+            37.3982442, 
+            -122.0622161
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "DeNardi Homes (186 East Middlefield Rd.)"
     }, 
     {
-        "address": "86 El Camino Real", 
-        "description": "On October 14, 2015, the Zoning Administrator approved an application by Wonder\nYears Preschool to build a new 2-story, 4,800-square-foot preschool building on a\nsite adjacent to their current property. The project would replace an existing 1-story\nbuilding that currently houses a car-stereo business.\n", 
+        "address": "2300 W. El Camino Real", 
+        "description": "In February 2015, the applicant submitted a Planned Community Permit and a\nProvisional Use Permit for the remodel and expansion of an existing hotel, to allow a\nfour-story, 117 room hotel with a level of underground parking. The project site is\nlocated on the north side of El Camino Real between Ortega Avenue and South\nRengstorff Avenue in the El Camino Real Precise Plan (P38) District.\n", 
         "location": [
-            37.3815943, 
-            -122.0753354
+            37.3978379, 
+            -122.1051946
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=20809", 
-        "title": "Wonder Years Preschool (86 El Camino Real)"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "2300 W. El Camino Real"
     }, 
     {
-        "address": "2580 and 2590 California Street and 201 San Antonio Circle", 
-        "description": "Request for Master Plan approval, a Planned Community Permit and a\nDevelopment Review Permit to construct a mixed-use development with 640\nresidential units and 14,800 square feet of commercial space to replace an existing\n70,000 square foot office building and 53,000 square feet of existing retail, and a\nHeritage Tree Removal Permit to remove 82 trees. These properties comprise the\nNorth of California Street Master Plan Area and are located on the north side of\nCalifornia Street between San Antonio Road and Pacchetti Way in the P-40 (San\nAntonio) Precise Plan.\n", 
+        "description": "On April 14, 2015, the City Council approved a scope of work for an amendment to\nthe Precise Plan to allow residential uses. Potential land use scenarios were\ndiscussed at the November 4, 2015 Environmental Planning Commission (EPC) and\nNovember 10, 2015 Council meetings. The Environmental Impact Report (EIR)\nprocess and Precise Plan update will begin in 2016. Additional information on the\nPrecise Plan Update process and upcoming meetings is available on the City's\nwebsite.\n", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "North Bayshore Precise Plan Update"
+    }, 
+    {
+        "address": "2392 Rock St.", 
+        "description": "In March 2013, Paul Ryan submitted a request for a Planned Unit Development\nPermit and a Heritage tree removal permit associated with a 3-unit small-lot single-\nfamily development on a 0.38 acre site.\n", 
         "location": [
-            37.406509, 
-            -122.1090825
+            37.4128968, 
+            -122.0970504
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "2580 and 2590 California Street and 201 San Antonio Circle"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Paul Ryan (2392 Rock St.)"
+    }, 
+    {
+        "address": "1984 W. El Camino Real", 
+        "description": "In November 2013, the City Council approved a 160-unit apartment project with\n4,000 square feet of ground floor retail space, and a Heritage Tree Removal Permit to\nremove 10 Heritage trees, to replace the Pacific Inn Motel on a 2.85-acre site, located\non the north side of El Camino Real between Escuela Avenue and Rengstorff\nAvenue.\n", 
+        "location": [
+            37.3949573, 
+            -122.0988784
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "UDR (1984 W. El Camino Real)"
+    }, 
+    {
+        "address": "908 N. Rengstorff Ave.", 
+        "description": "In October 2014, the Zoning Administrator approved a Conditional Use Permit and\nDevelopment Review Permit for a new 2-story, 8,088-square-foot, 84 child daycare\ncenter and a Heritage Tree removal permit to remove two Heritage Trees on a 0.43\nacre (18,731 sq. ft.) project site. The project includes the demolition of one single-\nfamily home, resulting in 7,318 net new square feet of development on the site.\n", 
+        "location": [
+            37.417662, 
+            -122.093797
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Windsor Academy (908 N. Rengstorff Ave.)"
+    }, 
+    {
+        "address": "167 North Whisman Road", 
+        "description": "In September 2013, plans were submitted for a 2-unit small-lot single-family\nsubdivision totaling approximately 6,600 square feet on 0.3 acres in the Whisman\nStation Precise Plan area.\n", 
+        "location": [
+            37.393008, 
+            -122.0608621
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "167 North Whisman Road"
+    }, 
+    {
+        "address": "1701 W. El Camino Real", 
+        "description": "In December, the applicant submitted for a Planned Community Permit and State\ndensity bonus to construct a 65-unit affordable studio apartment development\n", 
+        "location": [
+            37.3902159, 
+            -122.0936639
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "1701 W. El Camino Real"
+    }, 
+    {
+        "description": "On May 26, 2015 the City Council approved an application for a 3-story 17-unit\ncondominium project with underground parking on 0.93 acre project site. The\nproject would replace three apartments and a single-family home, and would\nremove up to 11 Heritage trees. The project includes a two unit Density Bonus\nrequest and includes one very low income unit.\n", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "1998-2024 Montecito Ave."
     }, 
     {
         "address": "250 San Antonio Circle (Community School of Music and Art)", 
         "description": "Request for a Planned Community Permit to allow construction of a new building\nand parking lot associated with the Community School of Music and Art replacing\ntwo existing auto repair buildings.\n", 
         "location": [
-            37.4075039, 
-            -122.1109653
+            37.4075059, 
+            -122.1111087
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
         "title": "250 San Antonio Circle (Community School of Music and Art)"
     }, 
     {
-        "address": "333 North Rengstorff Avenue", 
-        "description": "Request for an Informal Review of a new 31-unit rowhouse development to replace\nan existing 32-unit apartment complex lot on a 1.8 acre project site. This property is\nlocated east of North Rengstorff Boulevard between Montecito Avenue and San Luis\nAvenue in the R3-2.2 (Multi-Family Residential) district.\n", 
+        "address": "400 San Antonio Rd.", 
+        "description": "Informal review of a request for a Planned Community Permit to construct 605\napartment units, in two 5-story buildings and one 7-story building and 9,200 square\nfeet of commercial space to replace 7 existing retail, office and industrial buildings\ntotaling approximately 80,670 square feet on a 5.7 acre site, on the west side of San\nAntonio Road between Fayette Drive and Miller Avenue in the P-40 (San Antonio\nCenter) Precise Plan.\n", 
         "location": [
-            37.4077831, 
-            -122.0945443
+            37.4049948, 
+            -122.1120529
         ], 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "333 North Rengstorff Avenue"
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Prometheus (400 San Antonio Rd.)"
     }, 
     {
-        "description": "W. Maude Avenue)\nRequest for a rezoning from the ML (Limited Industrial) District to a P (Planned\nCommunity) District to allow up to 0.86 FAR; a Planned Community Permit to\nconstruct three, six-story office buildings, two, six-level parking structures (with\none-level below grade) and retain three, two-story office buildings resulting in 1.08\nmillion square feet of office at a 28.7-acre campus for LinkedIn Corporation, to\nreplace two existing office buildings and surface parking lots; a Heritage Tree\nRemoval Permit to remove approximately 75 Heritage Trees; and a Lot Line\nAdjustment to merge three parcels into one parcel. The project is located on the\nnortheast corner of East Middlefield Road and the SR-237 Frontage Road in the ML\n", 
-        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=22518", 
-        "title": "LinkedIn \u2013 Campus Redevelopment (700 and 800 E. Middlefield Road and 1100"
+        "address": "100 and 420-430 Ferguson Drive (Pulte Homes)", 
+        "description": "In June 2015, the City Council approved a Planned Community Permit for 198\nrowhouse units, a 2.76-acre public park, and new public streets. The project site is\nlocated in the South Whisman Precise Plan and is part of the South Whisman Master\nPlan.\n", 
+        "location": [
+            37.3908855, 
+            -122.0535801
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "100 and 420-430 Ferguson Drive (Pulte Homes)"
+    }, 
+    {
+        "address": "575 E. Middlefield Rd.", 
+        "description": "In February 2010, the City Council approved a request for a Transit Oriented\nDevelopment Permit to construct a 102,419 sq. ft., four-story office building on a\n10.7-acre site (0.5 FAR) with three existing office buildings and a request for a\nheritage tree permit to remove 21 heritage trees. The approval includes upgrades to\nthe existing parking lot and landscaping, a parking reduction of 62 spaces or 7.9\npercent of the total required parking, a parcel map to create condominium parcels\nfor the buildings, and an 8-year Development Agreement. This property is located\non the south side of East Middlefield Road between Ellis Street.\n", 
+        "location": [
+            37.3951009, 
+            -122.0543373
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "Symantec (575 E. Middlefield Rd.)"
+    }, 
+    {
+        "address": "647 Sierra Vista Ave.", 
+        "description": "On October 20, 2015 the City Council approved a 29-rowhome project on a 1.6 acre\nsite in the R3-2.2 (Multiple Family) District.\n", 
+        "location": [
+            37.4109741, 
+            -122.0885157
+        ], 
+        "source": "http://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18254", 
+        "title": "647 Sierra Vista Ave."
     }
 ]
