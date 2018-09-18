@@ -10,6 +10,8 @@ projects = []
 with open("data/projects.json") as f:
     projects = json.load(f)
 
+print "Loaded projects"
+
 for p in projects:
     title = p["title"]
     address = None
@@ -27,6 +29,8 @@ for p in projects:
             p["location"] = (location.latitude, location.longitude)
         else:
             print "Error geocoding: " + address
+    else:
+        print "Address not found for: ", title
 
 with open("data/projects.json", "w") as f:
     json.dump(projects, f, sort_keys=True, indent=4)
