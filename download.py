@@ -11,7 +11,7 @@ links = re.findall("http://www.mountainview.gov/civicax/filebank/blobdload.aspx\
 os.system("mkdir -p data")
 
 all_projects = {}
-for l in links[::-1]:
+for l in [links[-1]]:
     print("Downloading: " + l)
     pdf_file = "data/" + re.search("BlobID=([\d]+)", l).group(1) + ".pdf"
     os.system("curl -L " + l + " -o " + pdf_file)
